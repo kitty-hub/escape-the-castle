@@ -136,4 +136,4 @@ f b b 4 f f d d f f 4 b b f
 . 4 f b 3 b 3 b 3 b b f 4 . 
 . . f f 3 b 3 b 3 3 f f . . 
 . . . . f f b b f f . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="p|viCISK.RU]u5~Y}@7:"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="p|viCISK.RU]u5~Y}@7:"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="controls_repeat_ext" id="cFF^Y%QYw}7F-KM{b_P{"><value name="TIMES"><shadow type="math_whole_number" id=":dHhiA`!hTYQt}3JCM`c"><field name="NUM">4</field></shadow></value></block></next></block></next></block></statement></block></xml>

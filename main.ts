@@ -138,3 +138,6 @@ f b b 4 f f d d f f 4 b b f
 . . f f 3 b 3 b 3 3 f f . . 
 . . . . f f b b f f . . . . 
 `, SpriteKind.Player)
+for (let index = 0; index < 4; index++) {
+	
+}
